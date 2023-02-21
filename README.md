@@ -5,7 +5,7 @@
 
 # Hello Everyone! My name is Shawn Brown 
 
-[![Visits Badge](https://badges.pufler.dev/visits/https://github.com/shawn-brown12)
+[![Visits Badge](https://badges.pufler.dev/visits/https://github.com/shawn-brown12)]
 
 
 - This is the Github that I use for my personal and professional development! 
