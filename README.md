@@ -5,9 +5,6 @@
 
 # Hello Everyone! My name is Shawn Brown 
 
-![Visits Badge](https://badges.pufler.dev/visits/https://github.com/shawn-brown12)
-
-
 - This is the Github that I use for my personal and professional development! 
 
 - I'm currently a Data Science student at Codeup in San Antonio, Tx. I'm learning how to do all kinds of things with python, SQL, and various aspects of machine learning!
