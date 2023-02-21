@@ -11,7 +11,9 @@
 
 - All of the projects I've undertaken so far are here, starting with my very first one! (My classification project) Feel free to poke around and see if there's anything useful for you on here.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shawn-brown12)](https://github.com/ryo-ma/github-profile-trophy)
+#[![trophy](https://github-profile-trophy.vercel.app/?username=shawn-brown12)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shawn-brown12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **shawn-brown12/shawn-brown12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
