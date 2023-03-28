@@ -9,7 +9,7 @@
 
 - I'm a recent graduate of Codeup's Accredited Data Science program in San Antonio, TX. 
 
-- How to reach me: You can reach out at [Email](shawn.c.brown12@gmail.com) if you have any questions about what I've done or would like to collaborate on anything!
+- How to reach me: You can reach out at (shawn.c.brown12@gmail.com) if you have any questions about what I've done or would like to collaborate on anything!
 
 - All of the projects I've undertaken so far are here, starting with my very first one! (My classification project) Feel free to poke around and see if there's anything useful for you on here.
 
