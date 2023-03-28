@@ -9,7 +9,7 @@
 
 - I'm a recent graduate of Codeup's Accredited Data Science program in San Antonio, TX. 
 
-- How to reach me: You can reach out at (shawn.c.brown12@gmail.com) if you have any questions about what I've done or would like to collaborate on anything!
+- How to reach me: You can reach out at shawn.c.brown12@gmail.com if you have any questions about what I've done or would like to collaborate on anything!
 
 - All of the projects I've undertaken so far are here, starting with my very first one! (My classification project) Feel free to poke around and see if there's anything useful for you on here.
 
@@ -34,11 +34,11 @@ Tools:
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-25454C.svg?logo=tableau&logoColor=white"></a>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-25454C.svg?logo=tableau&logoColor=white"></a>
 
 
 Libraries:
