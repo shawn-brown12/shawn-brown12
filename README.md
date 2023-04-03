@@ -51,7 +51,7 @@ Libraries:
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-![Tableau](https://img.shields.io/endpoint?color=White&label=Tableau&logoColor=White&style=for-the-badge)
+![Tableau](https://img.shields.io/endpoint?color=White&label=Tableau?style=for-the-badge&logo=Tableau&logoColor=white)
 
 <!--
 **shawn-brown12/shawn-brown12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
