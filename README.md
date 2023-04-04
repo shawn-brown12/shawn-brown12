@@ -50,7 +50,7 @@ Libraries:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup4](https://img.shields.io/badge/%20-BeautifulSoup4-%23F0FFFF)
+![BeautifulSoup4](https://img.shields.io/badge/%20-BeautifulSoup4-%23F0FFFF?style=for-the-badge)
 <!--
 **shawn-brown12/shawn-brown12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
